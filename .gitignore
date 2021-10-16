@@ -76,7 +76,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*starter.ipynb
+*_starter.ipynb
 *pymaceuticals-checkpoint.ipynb
 
 # IPython
