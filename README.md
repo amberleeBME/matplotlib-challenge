@@ -6,7 +6,7 @@ Compare the performance of Capomulin versus various other regimens in treating s
 
 ## Results: 
 
-Ultimately, while Capomulin is one of the most promising treatment regimens, the Ramicane regimen performed just as well - if not better. 
+While Capomulin is one of the most promising treatment regimens, the Ramicane regimen performed just as well - if not better. 
 
 ![box plot image](images/box.png)
 > Ramicane had a lower median tumor volume than Capomulin after 45 days of treatment.
